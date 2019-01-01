@@ -32,7 +32,8 @@
   margin: auto;
   font: inherit;
   font-family: monospace;
-  font-size: 1.66666rem;
+  font-size: 2rem;
+  font-weight: 500;
 }
 
 .framewave {
@@ -56,20 +57,16 @@
   font-family: Arial, sans-serif;
 }
 
+.chilll {
+  font: inherit;
+}
+
 .heyyy {
   font-size: 3em;
 }
 
 .alley {
   max-width: 10em;
-}
-
-.bae-fill {
-  fill:
-}
-
-.bit-button {
-
 }
 
 html {
@@ -93,6 +90,7 @@ img, svg { max-width: 100%; height: auto }
 .case-lower { text-transform: lowercase }
 .case-upper { text-transform: uppercase }
 .decor-none { text-decoration: none }
+.text-end { text-align: end }
 .m-auto { margin: auto }
 .m-inbound { margin: auto auto auto 0 }
 .m-outbound { margin: auto 0 auto auto }
