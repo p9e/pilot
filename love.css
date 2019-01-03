@@ -15,9 +15,16 @@
 .bae-swab{color:#bff!important;background:#925!important}
 .bae-gold{color:#707!important;background:gold!important}
 .bae-rush{color:gold!important;background:#707!important}
+.bae-pop{color:#080808!important;background:#e8e8e8!important}
+.bae-emo{color:#bae;background:#080808!important}
 
 .so-down {
   writing-mode: vertical-rl;
+}
+
+.so-ambidex {
+  unicode-bidi: bidi-override;
+  direction: rtl;
 }
 
 .seeya-twin {
@@ -88,6 +95,7 @@ img, svg { max-width: 100%; height: auto }
 .case-lower { text-transform: lowercase }
 .case-upper { text-transform: uppercase }
 .decor-none { text-decoration: none }
+.text-center { text-align: center }
 .text-end { text-align: end }
 .m-auto { margin: auto }
 .m-inbound { margin: auto auto auto 0 }
@@ -98,6 +106,7 @@ img, svg { max-width: 100%; height: auto }
 .pad-1up { padding-top: 1rem }
 .pad-1down { padding-bottom: 1rem }
 .pad-mission {}
+.gruve { border: 1em groove }
 
 .block-party { display: block }
 .rushhour { line-height: 1 }
