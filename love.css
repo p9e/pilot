@@ -88,7 +88,13 @@ body {
   max-width: none;
 }
 
-img, svg { max-width: 100%; height: auto }
+img,
+svg {
+  box-sizing: border-box;
+  max-width: 100%;
+  height: auto;
+}
+
 :link, :visited { background-color: inherit; color: inherit }
 :focus { outline-color: currentColor }
 
