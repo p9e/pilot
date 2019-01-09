@@ -102,6 +102,7 @@ svg {
 .case-upper { text-transform: uppercase }
 .decor-none { text-decoration: none }
 .text-center { text-align: center }
+.text-rite { text-align: right }
 .text-end { text-align: end }
 .m-auto { margin: auto }
 .m-inbound { margin: auto auto auto 0 }
@@ -115,6 +116,8 @@ svg {
 .gruve { border: 1em groove }
 
 .block-party { display: block }
+.flex-party { display: flex }
+.basis-50 { flex-basis: 50% }
 .rushhour { line-height: 1 }
 
 [hidden] { display: none }
