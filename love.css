@@ -112,7 +112,7 @@ svg {
 .m-2down { margin-bottom: 2rem }
 .pad-1up { padding-top: 1rem }
 .pad-1down { padding-bottom: 1rem }
-.pad-mission {}
+.pad-mission { padding: 1rem }
 .gruve { border: 1em groove }
 
 .block-party { display: block }
